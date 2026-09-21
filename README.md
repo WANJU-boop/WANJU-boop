@@ -14,7 +14,13 @@ I am seeking embedded software and motor-control opportunities in Canada.
 - **Motor control and testing:** PMSM FOC, PI/PD control, encoder feedback, motor-parameter measurement, and torque calibration.
 - **Tools and robotics:** Qt, MATLAB, Linux, Git, CMake, J-Link/JScope, Isaac Lab, and MuJoCo.
 
-## Selected Public Contribution
+## Selected Projects and Contributions
+
+### AI Mock Interview — C++ / Qt
+
+A C++17 interview-practice project with a Qt desktop, an interactive CLI, offline Mock mode, HTTP LLM integration, and realtime voice adapters. Built to practice service interfaces, thread ownership, deterministic testing, and structured JSON reports.
+
+[AI Mock Interview Repository](https://github.com/WANJU-boop/ai_mock_interview)
 
 ### Single-Object Tracking — UBC Team Project
 
