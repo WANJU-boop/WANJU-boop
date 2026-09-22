@@ -16,6 +16,14 @@ I am seeking embedded software and motor-control opportunities in Canada.
 
 ## Selected Projects and Contributions
 
+### Pneumatic Soft Robot — Undergraduate Capstone
+
+An STM32-based pneumatic soft-robot project combining pump and valve
+control, embedded firmware, and hardware integration. Includes original
+prototype photos, system diagrams, and four hardware demonstration videos.
+
+[Source Code](https://github.com/WANJU-boop/Embedded-Pneumatic-Pump-and-Valve-Control-System-) · [Watch Hardware Demos](https://wanju-boop.github.io/Embedded-Pneumatic-Pump-and-Valve-Control-System-/)
+
 ### AI Mock Interview — C++ / Qt
 
 A C++17 interview-practice project with a Qt desktop, an interactive CLI, offline Mock mode, HTTP LLM integration, and realtime voice adapters. Built to practice service interfaces, thread ownership, deterministic testing, and structured JSON reports.
