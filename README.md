@@ -24,6 +24,16 @@ prototype photos, system diagrams, and four hardware demonstration videos.
 
 [Source Code](https://github.com/WANJU-boop/Embedded-Pneumatic-Pump-and-Valve-Control-System-) · [Watch Hardware Demos](https://wanju-boop.github.io/Embedded-Pneumatic-Pump-and-Valve-Control-System-/)
 
+### Parallel Ankle Kinematics — MATLAB Robotics
+
+A two-degree-of-freedom parallel ankle study covering pose-to-motor inverse
+kinematics, left/right mechanism visualization, and workspace scans under
+motor angle limits. Includes synthetic teaching parameters, an animated
+geometry preview, bilingual documentation, and independent numerical checks.
+The referenced kinematic model is credited in the repository.
+
+[Project Repository](https://github.com/WANJU-boop/parallel-ankle-kinematics) · [中文说明](https://github.com/WANJU-boop/parallel-ankle-kinematics/blob/main/README.zh-CN.md)
+
 ### AI Mock Interview — C++ / Qt
 
 A C++17 interview-practice project with a Qt desktop, an interactive CLI, offline Mock mode, HTTP LLM integration, and realtime voice adapters. Built to practice service interfaces, thread ownership, deterministic testing, and structured JSON reports.
